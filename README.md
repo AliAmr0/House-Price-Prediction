@@ -3,7 +3,7 @@
 This project aims to predict house prices using supervised machine learning techniques. It leverages a regression model trained on structured housing data (from Kaggle) to forecast prices based on features like area, number of rooms, and location-related variables.
 
 <p align="center">
-  <img src="Images/photo.png" alt="Kidney Disease Project Summary" width="600"/>
+  <img src="Images/photo.jpg" alt="Kidney Disease Project Summary" width="600"/>
 </p>
 
 ---
